@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Ireztian Fiko</h1>
+<h3 align="center">Software Engineer | SMKN 1 Surabaya 🧏‍♂️</h3>
+
 # 💫 About Me:
 🔭 I’m currently a student at SMK Negeri 1 Surabaya, majoring in Software Engineering<br>🤝  I’m looking to collaborate on open-source Laravel projects and web development.<br>🌱 I’m currently learning Laravel and advanced PHP development.
 
@@ -19,8 +22,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Paralyzx&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paralyzx&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Paralyzx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Paralyzx&limit=5&theme=neon&combine_all_yearly_contributions=true)
