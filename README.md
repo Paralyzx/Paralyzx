@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently a student at SMK Negeri 1 Surabaya, majoring in Software Engineering<br>🤝  I’m looking to collaborate on open-source Laravel projects and web development.<br>🌱 I’m currently learning Laravel and advanced PHP development.
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kl2ujea7jbveh2xkuy5wwutewe)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
       
