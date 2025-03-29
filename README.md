@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Ireztian Fiko</h1>
-<h3 align="center">Software Engineer | SMKN 1 Surabaya 🧏‍♂️</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello World!+I'm+Ireztian+Fiko;Welcome+to+my+profile!" alt="Title"></img>
+</div> 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
