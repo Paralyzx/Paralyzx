@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Paralyzx /count.svg?"  />
+</div>
 <h1 align="center">Hi, I'm Ireztian Fiko</h1>
 <h3 align="center">Software Engineer | SMKN 1 Surabaya 🧏‍♂️</h3>
 
@@ -13,15 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paralyzx&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kl2ujea7jbveh2xkuy5wwutewe)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Paralyzx /count.svg?"  />
-</div>
-
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Paralyzx&icon=9&color=11)](https://visitcount.itsvg.in)
