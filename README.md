@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Paralyzx /count.svg?"  />
 </div>
-<h1 align="center">Hi, I'm Ireztian Fiko</h1>
+<h1 align="center">Hi, I'm Ireztian Fiko 🚀</h1>
 <h3 align="center">Software Engineer | SMKN 1 Surabaya 🧏‍♂️</h3>
 
 <div align="center">
