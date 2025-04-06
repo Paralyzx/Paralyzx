@@ -12,6 +12,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paralyzx /Paralyzx /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paralyzx /Paralyzx /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Paralyzx /Paralyzx /output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 # 🌐 Socials 
 <div align="left">
   <a href="https://www.linkedin.com/in/ireztian-fiko-94b938282" target="_blank">
