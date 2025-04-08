@@ -19,7 +19,7 @@
   <a href="gitlab.com/Paralyzx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
   </a>
-  <a href="wa.me/6287856414999" target="_blank">
+  <a href="https://wa.me/6287856414999" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/roycorebuss/" target="_blank">
