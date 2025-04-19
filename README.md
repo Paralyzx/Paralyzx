@@ -16,6 +16,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paralyzx&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paralyzx &theme=rose_pine&hide_border=false&include_all_commits
+
 # 🌐 Socials 
 <div align="left">
   <a href="https://www.linkedin.com/in/ireztian-fiko-94b938282" target="_blank">
