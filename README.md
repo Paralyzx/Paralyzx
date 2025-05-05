@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Ireztian Fiko 🚀</h1>
 <h3 align="center">SMKN 1 Surabaya | Software Engineering 🧏‍♂️</h3>
 
-<div align="center">![Animasi Pixel Art Keren](https://raw.githubusercontent.com/Paralyzx/Paralyzx/main/assets/create-awesome-pixel-art-animations-and-illustrations.gif)</div>
+<div align="center">
+  ![Animasi Pixel Art](https://raw.githubusercontent.com/Paralyzx/Paralyzx/main/assets/create-awesome-pixel-art-animations-and-illustrations.gif)
+</div>
 
 <img src="https://raw.githubusercontent.com/Paralyzx /Paralyzx /output/snake.svg" alt="Snake animation" />
 
