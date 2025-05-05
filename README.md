@@ -2,7 +2,7 @@
 <h3 align="center">SMKN 1 Surabaya | Software Engineering 🧏‍♂️</h3>
 
 <div align="center">
-![create-awesome-pixel-art-animations-and-illustrations.gif</div>
+https://github.com/Paralyzx/Paralyzx/issues/1#issue-3038478400</div>
 
 <img src="https://raw.githubusercontent.com/Paralyzx /Paralyzx /output/snake.svg" alt="Snake animation" />
 
