@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ireztian Fiko 🚀</h1>
+<h1 align="center">Ets Hallo</h1>
 <h3 align="center">SMKN 1 Surabaya | Software Engineering 🧏‍♂️</h3>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"></div
